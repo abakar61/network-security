@@ -14,12 +14,7 @@ In this lab, we configure a Banner MOTD on **R1, R2, and R3**.
 
 ## 2. Topology
 
-```text
-          [R2]
-         /    \
-        /      \
-      [R1]----[R3]
-```
+![security topology ](topology.png)
 
 Devices:
 
