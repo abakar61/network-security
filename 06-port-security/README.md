@@ -170,7 +170,7 @@ switchport port-security
 
 Enables **Port Security** on the interface.
 
-### `switchport port-security maximum 178`
+### `switchport port-security maximum 178476868`
 
 ```text
 switchport port-security maximum 1
